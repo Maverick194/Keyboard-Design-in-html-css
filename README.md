@@ -5,9 +5,9 @@ This repository contains HTML and CSS code for designing a responsive virtual ke
 ## Features
 
 * __Responsive Design__ : The keyboard layout adjusts its size and orientation to fit various screen sizes, ensuring optimal display on both desktop and mobile devices.
-* **Interactive Buttons** : Each key on the keyboard is represented by an HTML button element, styled with CSS to provide visual feedback upon interaction.
-* ** Customizable Styling ** : The CSS stylesheet (style.css) can be easily modified to customize the appearance of the keyboard layout according to specific preferences or design requirements.
-* ** GitHub Hosting ** : The project is hosted on GitHub, making it easy to access, share, and collaborate on the codebase.
+* __Interactive Buttons__ : Each key on the keyboard is represented by an HTML button element, styled with CSS to provide visual feedback upon interaction.
+* __Customizable Styling__ : The CSS stylesheet (style.css) can be easily modified to customize the appearance of the keyboard layout according to specific preferences or design requirements.
+* __GitHub Hosting__ : The project is hosted on GitHub, making it easy to access, share, and collaborate on the codebase.
 
 ## Usage
 
@@ -28,5 +28,5 @@ Contributions to improve the keyboard layout or add new features are welcome! To
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
